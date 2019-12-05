@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/main.py" line="56" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="3df9de86-2104-4890-be36-a8658d4bad45" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/lawsuit_extract_evaluation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lawsuit_extract_evaluation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_transferred/all_answer_binary.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data_transferred/all_answer_binary.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_transferred/parse_result_binary.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data_transferred/parse_result_binary.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,21 +20,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1437" />
+          <entry key="Python Console" value="12" />
+          <entry key="py" value="3166" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1437" />
+          <entry key="Python" value="3178" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="csv" value="4" />
           <entry key="py" value="1" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="PLAIN_TEXT" value="7" />
           <entry key="Python" value="1" />
         </counts>
       </usages-collector>
@@ -50,14 +46,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="178" column="44" lean-forward="true" selection-start-line="178" selection-start-column="44" selection-end-line="178" selection-end-column="44" />
+            <state relative-caret-position="378">
+              <caret line="189" column="60" selection-start-line="189" selection-start-column="60" selection-end-line="189" selection-end-column="60" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#5414#5680#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/compare/tmp.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-11040" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_transferred/all_answer_binary.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_transferred/parse_result_binary.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/error_data/labeled_dup.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="41" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -75,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/data/raw_judge_items.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="4" selection-end-column="4" />
+              <caret column="16" selection-start-column="5" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -140,7 +163,22 @@
             <path>
               <item name="lawsuit_eval" type="b2602c69:ProjectViewProjectNode" />
               <item name="lawsuit_eval" type="462c0819:PsiDirectoryNode" />
+              <item name="compare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawsuit_eval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawsuit_eval" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawsuit_eval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawsuit_eval" type="462c0819:PsiDirectoryNode" />
               <item name="data_transferred" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lawsuit_eval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lawsuit_eval" type="462c0819:PsiDirectoryNode" />
+              <item name="error_data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,12 +265,12 @@
     <frame x="-8" y="-8" width="1861" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20405924" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18924849" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937685" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28784648" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3976546" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -242,7 +280,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32937685" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32937685" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3283582" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -262,13 +300,28 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>89</line>
+          <line>91</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>189</line>
+          <line>243</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>207</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>198</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>184</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -279,47 +332,47 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>pay_FP</expression-string>
+        <expression-string>label</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>relations_pay_parsed</expression-string>
+        <expression-string>d_labeled</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>s1</expression-string>
+        <expression-string>d_labeled[(1,2)]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>tuples</expression-string>
+        <expression-string>d_raw</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>df_pay.values.totuple()</expression-string>
+        <expression-string>df_raw</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>df_pay.values.totuples()</expression-string>
+        <expression-string>err</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>df_pay.values.tolist()</expression-string>
+        <expression-string>err = [(r[0], r[1]) for r in error]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>relations_pay</expression-string>
+        <expression-string>print(df_fy[df_fy.duplicated()])</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>df_fy</expression-string>
+        <expression-string>df_fy[df_fy.duplicated()]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -334,16 +387,6 @@
     <entry file="file://$PROJECT_DIR$/all_answer.csv" />
     <entry file="file://G:/annaconda/envs/tfgpu_py37/Lib/site-packages/pandas/core/internals/construction.py" />
     <entry file="file://$PROJECT_DIR$/extract_result.csv" />
-    <entry file="file://$PROJECT_DIR$/data/parse_result.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/raw_judge_items.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/labeled_data.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -361,14 +404,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/parse_result.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error_data/labeled_dup.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/raw_judge_items.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_transferred/all_answer_binary.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_transferred/parse_result_binary.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="178" column="44" lean-forward="true" selection-start-line="178" selection-start-column="44" selection-end-line="178" selection-end-column="44" />
+        <state relative-caret-position="378">
+          <caret line="189" column="60" selection-start-line="189" selection-start-column="60" selection-end-line="189" selection-end-column="60" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#5414#5680#0" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compare/tmp.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11040" />
       </provider>
     </entry>
   </component>
